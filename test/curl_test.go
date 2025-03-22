@@ -1,8 +1,8 @@
 package test
 
 import (
+	"github.com/Scorpio69t/go-utils/pkg/curl"
 	"github.com/stretchr/testify/assert"
-	"go-utils/pkg/curl"
 	"testing"
 	"time"
 )
