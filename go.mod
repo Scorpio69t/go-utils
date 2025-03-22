@@ -1,4 +1,4 @@
-module go-utils
+module github.com/Scorpio69t/go-utils
 
 go 1.24.1
 
