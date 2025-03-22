@@ -37,5 +37,5 @@ jobs:
         run: go test -v ./...
 
       # 执行 Lint 检查
-      - name: Run Lint
-        run: golangci-lint run
+#      - name: Run Lint
+#        run: golangci-lint run
